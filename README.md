@@ -11,4 +11,4 @@
 
 | 公众号 | 微信号 |
 | ------ | --------- |
-| <img src="http://www.icodebase.cn/static/blog/img/dingyuehao.jpg" height="248px" width="164px" title="公众号" style="display:inherit;"/> | <img src="http://www.icodebase.cn/static/blog/img/aiqianji.jpg" height="248px" width="164px" title="微信号" style="display:inherit;"/> |
+| <img src="http://www.icodebase.cn/static/blog/img/dingyuehao.jpg" height="258px" width="258px" title="公众号" style="display:inherit;"/> | <img src="http://www.icodebase.cn/static/blog/img/aiqianji.jpg" height="258px" width="258px" title="微信号" style="display:inherit;"/> |
